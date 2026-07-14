@@ -1,0 +1,15 @@
+# Compilation outputs
+*.exe
+*.o
+*.obj
+
+# Database log files & snapshots
+*_wal.log
+*_snapshot.db
+*.tmp
+*.log
+*.db
+
+# OS specific files
+.DS_Store
+Thumbs.db
